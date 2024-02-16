@@ -1,3 +1,5 @@
 demo is updated and this is done in new-branch branch
 
 2nd time
+
+as u said in issue this demo file in new-branch branch updated
