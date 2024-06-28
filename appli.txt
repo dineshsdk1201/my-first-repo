@@ -1,1 +1,13 @@
-This is apple text document
+Apple might be considered one of the most nutritional fruit.   It may increase   immunity, impart   stress resistance, and also contains bioactive compounds that are beneficial for human health. As the proverb suggests, ‘an apple a day keeps the doctor away’, apples are a healthy fruit.
+
+Nutritional Value of Apple:  
+Apple is an enriching source of nutrients and bioactive compounds, including vitamins and trace elements.1 
+
+Nutritional component 	Value  
+Total Calories 	65.0 Kcal 
+Total fat 	0.16 g 
+Protein 	0.15 g 
+Carbohydrate 	15.6 g 
+Sugar 	13.3 g 
+Dietary Fibre 	2.1 g 
+
