@@ -1,0 +1,2 @@
+1.One project can track issues from multiple github repos.
+2.Use gh projects for plan and track eork progress across github
